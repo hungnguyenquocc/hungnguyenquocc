@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my name is Hùng. I'm a student at Ho Chi Minh university of technology. I'm from Viet Nam and my goal is to become a software engineer  👋
 
 <!--
 **hungnguyenquocc/hungnguyenquocc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
